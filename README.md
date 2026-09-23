@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # IT313 TypeScript Foundations
 
@@ -56,3 +57,6 @@ The program displays the average, status, and remarks of each enrollee.
 ## Conclusion
 
 TypeScript helps identify type-related errors before the program runs. It makes the code more organized and prepares developers for using typed props and state in React Native.
+=======
+# IT313_Alberca_Dexter-Kent_TypeScriptFoundations
+>>>>>>> ffbc31c4af06936f4b3337d2a818e4c9a1e0e14d
